@@ -12,7 +12,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- The company is a finance company specializing in personal loans, business loans, and financing of medical procedures. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss. Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+- In the recent years, certain realities are highly visible in the Consumer Finance Company. The company is obliged to lend loans to customers, flying in loan application. Although, post thorough verification of the applicant has been done, there are situations where the company has to encounter the “defaulters” or “charged-off” candidates, who are unlikely to repay their loan. Thus, such failures to fulfill leads to financial loss for the company.
+
 - Project purpose:
 	Identify patterns which indicate if a person is likely to default which can be used to take appropiate actions
 - Dataset : 
@@ -21,10 +22,10 @@
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Post entire analysis, it is noticed that there are feature variables that can aide financial companies to identify defaulters
+- Although these feature variables are marginally differentiate between fully charged and charge off categories, they do have peak point identification factors such as lending out minimal interest rates to applicants or based on grades of applicants, more term can be granted or based on demography and its spending power, applicants could have lesser stringent obligations to pay off their loans including customer with more number of accounts.
+- Customers with higher loan amount and loan taken for small business ,belonging to grade E and F are risky customers.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
